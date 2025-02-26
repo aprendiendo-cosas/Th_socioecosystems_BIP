@@ -9,7 +9,7 @@
 >
 > + **Duración**: 1 hora.
 
-![portada](https://github.com/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa/blob/2024_2025/imagenes/portada.jpg?raw=true)
+![portada](https://github.com/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa/blob/2024-2025/imagenes/portada.jpg?raw=true)
 
 
 
@@ -33,7 +33,7 @@
 
 
 
-Durante la clase usamos [esta](https://github.com/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa/blob/2024_2025/presentacion/socioecosistemas.pptx) presentación como guión.
+Durante la clase usamos [esta](https://github.com/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa/blob/2024-2025/presentacion/socioecosistemas.pptx?raw=true) presentación como guión.
 
 
 
@@ -41,7 +41,7 @@ Durante la clase usamos [esta](https://github.com/aprendiendo-cosas/Te_socioecos
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa/archive/refs/tags/2024-2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
