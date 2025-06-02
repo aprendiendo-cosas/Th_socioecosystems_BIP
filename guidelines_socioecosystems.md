@@ -9,7 +9,7 @@
 >
 > + **Duration**: 1 hour.
 
-![cover](https://github.com/aprendiendo-cosas/Th_socioecosystems_BIP/blob/2024_2025/imagenes/portada.jpg?raw=true)
+![cover](https://github.com/aprendiendo-cosas/Th_socioecosystems_BIP/blob/2024-2025/images/portada.jpg?raw=true)
 
 ## Objectives of the Teaching Session
 
@@ -30,7 +30,7 @@
 + When describing the previous conceptual framework, the concept of "ecosystem service" arises. We describe the three types of services most frequently used.
 + Finally, we briefly discuss the most common adaptation mechanism in socioecosystems: the panarchic cycle that alternates states of growth, conservation, release, and reorganization.
 
-During the class, we used [this](https://github.com/aprendiendo-cosas/Th_socioecosystems_BIP/blob/2024_2025/presentation/socioecosystems.pptx?raw=true) presentation as a guideline.
+During the class, we used [this](https://github.com/aprendiendo-cosas/Th_socioecosystems_BIP/blob/2024-2025/presentation/socioecosystems.pptx?raw=true) presentation as a guideline.
 
 
 
@@ -38,7 +38,7 @@ During the class, we used [this](https://github.com/aprendiendo-cosas/Th_socioec
 
 ****
 
-[Here](https://github.com/aprendiendo-cosas/Th_socioecosystems_BIP/archive/refs/tags/2024_2025.zip) you can download a .zip file containing this script in HTML format and all the included material.
+[Here](https://github.com/aprendiendo-cosas/Th_socioecosystems_BIP/archive/refs/tags/2024-2025.zip) you can download a .zip file containing this script in HTML format and all the included material.
 
 ****
 <p xmlns:cc="http://creativecommons.org/ns#" >The content of this repository can be used under the following license:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
